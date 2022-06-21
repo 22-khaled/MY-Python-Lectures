@@ -1,0 +1,21 @@
+print('hello world')
+#task print(your name, date of birth, your specialist
+print('My name is Khaled, I born in 29/10/2001, I'm studying electrical power engineering') 
+
+x=12
+print(f'date = {x}')
+
+txt1 = "My name is {fname}, I'm {age}".format(fname = "John", age = 36)
+txt2 = "My name is {0}, I'm {1}".format("John",36)
+txt3 = "My name is {}, I'm {}".format("John",36)
+
+
+#This is a comment
+#written in
+#more than just one line
+
+"""
+This is a comment
+written in
+more than just one line
+"""
