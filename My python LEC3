@@ -88,6 +88,19 @@ y = 15
 print(bool(x))
 print(bool(y))
 
+######
+#complex
+a=5
+b=7
+c=complex(a,b)
+print(c)
+###
+a = 5+6j
+a.real
+a.imag
+####
+a=10-6j
+a.conjugate()
 
 
 
